@@ -16,7 +16,7 @@ const NextMarkdown = ({ md }) => {
           // We create an override for the [text](link) syntax.
           a: NextLink,
 
-          // We cannot do the same here with the image because next/image requieres a height and width.
+          // We cannot do the same here with the image because next/image requieres height and width.
           NextImage: {
             component: Image
           },

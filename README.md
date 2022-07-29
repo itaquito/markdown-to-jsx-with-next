@@ -12,4 +12,6 @@ Hello! This a really simple example that shows how you can use `next/link` and `
 
 Hope you like it!
 
+## Deploy with Vercel
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitaquito%2Fmarkdown-to-jsx-with-next)
